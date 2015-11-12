@@ -1,0 +1,27 @@
+{
+  "name": "react-newboston-tutorial",
+  "version": "1.0.0",
+  "description": "Tutorial from https://www.youtube.com/watch?v=4ZAEBxGipoA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pandemiccreative/react-newboston-tutorial.git"
+  },
+  "keywords": [
+    "React",
+    "Tutorial"
+  ],
+  "author": "Justin Hurt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pandemiccreative/react-newboston-tutorial/issues"
+  },
+  "homepage": "https://github.com/pandemiccreative/react-newboston-tutorial#readme",
+  "dependencies": {
+    "react": "^0.14.2",
+    "react-dom": "^0.14.2"
+  }
+}
